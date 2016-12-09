@@ -2,7 +2,11 @@
 
 HELLO!
 
-HELLO AGAIN! 
+HELLO AGAIN!
+
+HI IM SEAN
+
+EMMA - CREATE 'EVENTS' BRANCH
 
 yes
 
@@ -28,3 +32,21 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sean here
