@@ -2,7 +2,9 @@
 
 HELLO!
 
-HELLO AGAIN! 
+HELLO AGAIN!
+
+HI IM SEAN
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
